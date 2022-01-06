@@ -11,7 +11,7 @@
 	<manufacturer>Jim Bagley</manufacturer>
 	<category>Platform - Climb</category>
 
-	<setname></setname>
+	<setname>none</setname>
 	<parent>puckman</parent>
 	<mameversion>0217</mameversion>
 	<rbf>pacman</rbf>
